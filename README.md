@@ -1,4 +1,4 @@
-# miniBluechess
+# miniBluechess &#11036; &#127922; &#11035; 
 
 miniBlue is intended as a playable chess software still in development.
 
